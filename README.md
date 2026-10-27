@@ -12,7 +12,7 @@ El proyecto consiste en el diseño de un software de gestión de inventarios par
 
 ## Documentación Incluida
 *   **Diagrama BPMN:** Modelado del flujo de compra y sincronización.
-*   **Diccionario de Datos:** Estructura de las entidades críticas (`Producto`, `Pedido_Web`, `Escaneo_Logistica` y `Detalle_Pedido`).
+*   **Diccionario de Datos:** Estructura de las entidades críticas (`Producto`, `Pedido_Web`, `Escaneo_Logistica` y `Detalle_Pedido`). 
 
 ---
 **Autor:** Facundo Uriel Rodriguez
